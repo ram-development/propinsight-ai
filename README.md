@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Valuation API
 This is a lightweight Express.js backend that simulates an AI-powered property valuation feature.
 
@@ -35,3 +36,6 @@ Returns mock or AI-generated statistics about a given suburb using ChatGPT.
 
 ## Logs
 All inputs and AI responses are logged to `logs/app.log`.
+=======
+# propinsight-ai
+>>>>>>> 4786acf661792336e40adb6b0e19ac95b7f3b926
